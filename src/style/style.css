@@ -81,3 +81,8 @@ box-shadow: 0,0,0,0.8;
 .button_currentCity:hover {
   background-color: rgb(104,188,190);
 }
+
+.homework {
+  padding: 20px 30px;
+  margin-top: 45px;
+}
