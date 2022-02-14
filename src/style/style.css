@@ -1,0 +1,83 @@
+.background{
+  background-color: rgb(243, 243, 243);
+  background-attachment: fixed;
+  border-radius: 25px;
+  height: 700px;
+  width: 850px;
+  margin: 0 auto;
+      }
+
+.logo {
+    height: 50px;
+    width:auto;
+    display: inline;
+        top: 0px;
+    border-radius: 40px;
+      }
+
+  
+.enter{
+border-radius: 5px;
+margin: 10px;
+width: 190px;
+
+}
+.search{
+  border-radius: 15px;
+  background-color: cadetblue;
+  margin: 10px;
+  width: 100px;
+  border: 1px solid #000;
+transition-duration: 200ms ease-in-out;
+box-shadow: 0,0,0,0.8;
+}
+
+.banner {
+  width: 925px;
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+  padding: 15px 10px;
+
+}
+
+.syd{
+  font-size: 45px;
+  font-weight: 50px;
+  padding: 9px;
+}
+
+.lip, .mon, .tue, .wed, .thu, .fri{
+  position: relative;
+  border-radius: 30px;
+  background-color: rgb(243, 243, 243);
+  margin: 0 auto;
+  padding: 50px 10px  30px 10px;
+}
+
+.lip{
+  text-align: right;
+}
+
+.mon, .tue, .wed, .thu, .fri {
+  background-color: rgb(221, 235, 252);
+}
+
+.search:hover{
+  background-color: rgb(104,188,190);
+}
+
+.button_currentCity
+{
+  margin-top:60px;
+  border-radius: 15px;
+  background-color: cadetblue;
+  width: 150px;
+  border: 1px solid #000;
+transition-duration: 200ms ease-in-out;
+box-shadow: 0,0,0,0.8;
+}
+
+.button_currentCity:hover {
+  background-color: rgb(104,188,190);
+}
